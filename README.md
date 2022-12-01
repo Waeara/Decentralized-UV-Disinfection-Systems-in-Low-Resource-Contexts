@@ -1,5 +1,5 @@
 # IUVA-Interactive-Map
 
-<iframe src="Test with flush.html" height="500" width="500"></iframe>
+<iframe src="Geospatial interactive map.html" height="1500" width="1500"></iframe>
 
-You can explore this map [as its own web page here](Test with flush.html)
+You can explore this map [as its own web page here](Geospatial interactive map.html)
