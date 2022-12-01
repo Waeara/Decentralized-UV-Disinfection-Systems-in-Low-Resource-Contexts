@@ -5,6 +5,6 @@ As there were no coordinates for some of the places, I just took a rough represe
 
 Notice that you can click on the icon on the top-left corner (below the zoom buttons) to watch it in full screen, or just click on the link below.
 
-<iframe src="Geospatial interactive map.html" height="1500" width="1500"></iframe>
+<iframe src="Geospatial interactive map.html" height="1000" width="1000"></iframe>
 
 You can explore this map [as its own web page here](Geospatial interactive map.html)
